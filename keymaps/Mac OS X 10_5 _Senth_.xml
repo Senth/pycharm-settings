@@ -13,11 +13,13 @@
   <action id="Move" />
   <action id="NextDiff" />
   <action id="RecentChanges" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="meta alt r" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Run">
