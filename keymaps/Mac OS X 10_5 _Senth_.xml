@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="ctrl alt f5" />
   </action>
