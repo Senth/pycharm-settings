@@ -3,12 +3,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" second-keystroke="shift ctrl c" />
   </action>
   <action id="CopyElement" />
+  <action id="CopyReference" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="DumpLookupElementWeights" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorPasteSimple" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -21,6 +24,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="GotoSymbol" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="Move">
@@ -30,6 +34,8 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextDiff" />
+  <action id="PopupHector" />
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift ctrl r" second-keystroke="shift ctrl r" />
   </action>
@@ -43,6 +49,7 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="ShowSettings" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
