@@ -12,10 +12,10 @@
       <file name="D:/git/facebook-cli/facebookcli/help-description" timestamp="1553675089296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/git/facebook-cli/facebookcli/config.example.py" timestamp="1553673605305">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/git/facebook-cli/facebookcli/config.example.py" timestamp="1553676438470">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/git/facebook-cli/facebookcli/__main__.py" timestamp="1553675511516">
         <mark key="[" line="2" column="0" />
@@ -27,10 +27,13 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ZmJfZW1haWxmYl9lbWFpbAo=</text>
+        <text encoding="base64">VgojIElmIHlvdSB3YW50IHRoZSBtZXNzYWdlIHRvIGJlIHNlbnQgdGhyb3VnaCBGQiBNZXNzZW5nZXIgaW5zdGVhZCBvZiBwb3N0aW5nIG9uIHRoZWlyIHdhbGwgYWRkIHRoZWlyIG5hbWUgdG8gdGhpcyBsaXN0CkJJUlRIREFZX1NFTkRfQVNfRkJfTUVTU0FHRSA9IGZyb3plbnNldChbCiAgICAnU2FyYSBEb2UnLApdKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>messages</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VgojIElmIHlvdSB3YW50IHRoZSBtZXNzYWdlIHRvIGJlIHNlbnQgdGhyb3VnaCBGQiBNZXNzZW5nZXIgaW5zdGVhZCBvZiBwb3N0aW5nIG9uIHRoZWlyIHdhbGwgYWRkIHRoZWlyIG5hbWUgdG8gdGhpcyBsaXN0CkJJUlRIREFZX1NFTkRfQVNfRkJfTUVTU0FHRSA9IGZyb3plbnNldChbCiAgICAnU2FyYSBEb2UnLApdKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZmJfZW1haWxmYl9lbWFpbAo=</text>
       </register>
       <register name="-" type="4">
         <text>messages</text>
