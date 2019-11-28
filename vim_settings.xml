@@ -1,63 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="D:/git/facebook-cli/facebookcli/config.py" timestamp="1553673757786">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="1" column="2" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="D:/git/facebook-cli/facebookcli/help-description" timestamp="1553675089296">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/git/facebook-cli/facebookcli/utils.py" timestamp="1553676799330">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/git/fb-messenger-send-msg/fb-messenger-send-msg.py" timestamp="1553677381819" />
-      <file name="D:/git/facebook-cli/facebookcli/config.example.py" timestamp="1553676438470">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="D:/git/facebook-cli/facebookcli/__main__.py" timestamp="1553678012299">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-      </file>
-      <file name="D:/git/facebook-cli/facebookcli/login.py" timestamp="1553677295378">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-      </file>
-      <file name="D:/git/facebook-cli/facebookcli/driver.py" timestamp="1553678158502">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">VgojIElmIHlvdSB3YW50IHRoZSBtZXNzYWdlIHRvIGJlIHNlbnQgdGhyb3VnaCBGQiBNZXNzZW5nZXIgaW5zdGVhZCBvZiBwb3N0aW5nIG9uIHRoZWlyIHdhbGwgYWRkIHRoZWlyIG5hbWUgdG8gdGhpcyBsaXN0CkJJUlRIREFZX1NFTkRfQVNfRkJfTUVTU0FHRSA9IGZyb3plbnNldChbCiAgICAnU2FyYSBEb2UnLApdKQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZmJfZW1haWxmYl9lbWFpbAo=</text>
-      </register>
-      <register name="-" type="4">
-        <text />
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-cmd />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
@@ -84,5 +27,10 @@
         <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
