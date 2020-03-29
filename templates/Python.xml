@@ -1,5 +1,11 @@
 <templateSet group="Python">
-  <template name="tradfrigroup" value="elif Groups.$NAME$ == group.name or (isinstance(Groups.$NAME$, Group) and Groups.$NAME$.id == group.id):&#10;    Groups.$NAME$ = group" description="Add a check for a new tradfri grou" toReformat="false" toShortenFQNames="true">
+  <template name="tradfrigroup" value="elif Groups.$NAME$ == group.name or (isinstance(Groups.$NAME$, Group) and Groups.$NAME$.id == group.id):&#10;    Groups.$NAME$ = group" description="Add a check for a new tradfri group" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="tradfrilight" value="elif Lights.$NAME$ == device.name or (isinstance(Lights.$NAME$, Device) and Lights.$NAME$.has_socket_control and Lights.$NAME$.id == device.id):&#10;    Lights.$NAME$ = device" description="Add a check for a new tradfri light" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Python" value="true" />
