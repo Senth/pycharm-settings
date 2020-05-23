@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping pattern="info_wrapper" type="Python" />
+      <mapping pattern="luminance" type="Python" />
     </extensionMap>
   </component>
 </application>
